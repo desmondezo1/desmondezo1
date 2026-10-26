@@ -1,59 +1,42 @@
-# Hi there, I'm Desmond 👋
+### Hi, I'm Desmond 👋
 
-🚀 **Full-Stack Software Engineer**
+**Software engineer who ships AI products to production.**
 
-With over a decade of experience in **Web 2** and **Web 3** technologies, I specialize in crafting innovative solutions that bridge creativity and functionality. My expertise spans **Node.js**, **React**, **Next.js**, **NestJS**, **TypeScript**, and **JavaScript**, with a growing passion for **Rust** and blockchain development. I'm always excited to turn ideas into impactful realities.
+I take AI ideas from prototype to something real people rely on — the model work, the backend around it, and the cloud infrastructure it runs on. 6+ years building across startups, agencies and my own products. Currently owning AI products at **[3 Sided Cube](https://3sidedcube.com)**.
 
----
+**What I'm good at**
 
-## 🛠️ Technologies & Tools
-
-- **Languages:** JavaScript, TypeScript, Solidity, Python, Rust *(actively developing my skills)*  
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, NestJS, Laravel  
-- **Blockchain:** Ethereum, Smart Contracts  
-- **Other Tools:** Git, Docker, Jest  
+- **Production AI** — RAG and search, agents, tool-calling, model evaluation, and keeping latency and cost under control
+- **Infrastructure** — AWS, Docker, CI/CD, VPS and edge deployments; I've set up hosting, DevOps and architecture for products end to end
+- **System design** — turning messy requirements into simple, reliable services that scale
+- **Full-stack** — TypeScript, Node.js, NestJS, React/Next.js, React Native, Python, PHP/Laravel
 
 ---
 
-## 🚀 Notable Projects
+### Selected work
 
-### [ZenRead](https://devpost.com/software/zenread)  
-📝 *Improving Accessibility and Reading Experiences*  
-- A Chrome extension that enhances reading for individuals with ADHD and reading difficulties by implementing the **Bionic Reading** technique.  
-- **Impact:** Recognized as the "Most Creative Hack" at the All In Open Source Hackathon.  
-- **Tech Stack:** JavaScript, Chrome Extensions API.
+| Project | What it is |
+| --- | --- |
+| **AI Search for the public sector** · *3 Sided Cube* | RAG search platform for a government client. Benchmarked models and built a query fan-out retrieval pipeline that cut response time and running cost. |
+| **Hive** · *3 Sided Cube* | Internal AI operations tool, built and pitched to leadership to automate day-to-day agency work. |
+| **JarvisOS** | An agentic Android OS (LineageOS fork) running an AI model fully offline on the phone. I speak about it at Dev Dot Talk — *"Building an Agentic Mobile OS"*. |
+| **Mo** | A work assistant you teach by showing it once — it learns a repetitive task from one demo and gets cheaper every time it runs. |
+| **Tube AI** | Autonomous content pipeline: turns trend signals into ready-to-edit YouTube Shorts, with cost tracking and A/B testing built in. |
+| **[AgentDreams](https://github.com/desmondezo1/AgentDreams)** | Lets idle AI agents earn: post a task, fund USDC escrow on Base, the agent completes it and gets paid on-chain. |
+| **MamaAI** · *hackathon* | Offline, Pidgin-speaking voice assistant to support midwives in rural Nigeria. |
 
----
-
-### [City-Based Maze Game with Dynamic Zombie AI](https://desmondezo1.github.io/city-Maze/)  
-🎮 *Real-World Maps Meet Gaming*  
-- A game that converts real-world city maps into interactive mazes, where players navigate using **hand gestures** to avoid zombies and collect power-ups.  
-- Integrated realistic zombie AI using **A* pathfinding** and optimized movement algorithms.  
-- **Tech Stack:** JavaScript, Game Development.  
-- **[Try it here!](https://desmondezo1.github.io/city-Maze/)**
+<sub>Most of my production work lives in company or private repos — happy to walk through any of it.</sub>
 
 ---
 
-## ✍️ Blog Posts
+### Also
 
-📚 I enjoy sharing insights and breaking down complex topics on my blog, [Cyber Dev](https://desmondezoojile.hashnode.dev/):  
+- 🎓 MSc in Cybersecurity & Human Factors · co-author of two papers accepted for publication in 2026
+- 🏆 "Most Creative Hack" — [ZenRead](https://devpost.com/software/zenread), All In Open Source Hackathon
+- ✍️ I write at [Cyber Dev](https://desmondezoojile.hashnode.dev/)
 
-- **[Mastering Solidity: Constants VS Immutables](https://desmondezoojile.hashnode.dev/mastering-solidity-constants-vs-immutables)**  
-- **[Here's How Decorators Work in JavaScript (ES6, TypeScript, ...)](https://desmondezoojile.hashnode.dev/heres-how-decorators-work-in-javascript-es6-typescript)**  
-- **[How to Set Up Your First Nest.js Project](https://desmondezoojile.hashnode.dev/how-to-set-up-your-first-nestjs-project)**  
-- **[Building a City-Based Maze Game with Dynamic Zombie AI: Technical Challenges, Code, and Solutions](https://desmondezoojile.hashnode.dev/building-a-city-based-maze-game-with-dynamic-zombie-ai-technical-challenges-code-and-solutions)**  
+### Let's talk
 
----
+Building something with AI and need it to actually work in production? I'd like to hear about it.
 
-## 📫 Let's Connect
-
-🤝 I'm always open to collaborating on innovative projects and connecting with the developer community. Feel free to reach out:  
-
-- **LinkedIn**: [Desmond Ezo-Ojile](https://www.linkedin.com/in/desmondezo/)  
-- **Devpost**: [desmondezo1](https://devpost.com/desmondezo1)  
-- **Hashnode**: [Cyber Dev](https://desmondezoojile.hashnode.dev/)  
-
----
-
-🌟 **Let’s Build the Future Together!**
+[LinkedIn](https://www.linkedin.com/in/desmondezo/) · [Portfolio](https://github.com/desmondezo1/Desmond) · [Devpost](https://devpost.com/desmondezo1) · [Blog](https://desmondezoojile.hashnode.dev/)
