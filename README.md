@@ -1,42 +1,29 @@
 ### Hi, I'm Desmond 👋
 
-**Software engineer who ships AI products to production.**
+I love building AI products that real people use.
 
-I take AI ideas from prototype to something real people rely on — the model work, the backend around it, and the cloud infrastructure it runs on. 6+ years building across startups, agencies and my own products. Currently owning AI products at **[3 Sided Cube](https://3sidedcube.com)**.
+I've been writing code since 2013. Today I build AI products at [3 Sided Cube](https://3sidedcube.com), and I set up the servers they run on.
 
-**What I'm good at**
+### Things I've built
 
-- **Production AI** — RAG and search, agents, tool-calling, model evaluation, and keeping latency and cost under control
-- **Infrastructure** — AWS, Docker, CI/CD, VPS and edge deployments; I've set up hosting, DevOps and architecture for products end to end
-- **System design** — turning messy requirements into simple, reliable services that scale
-- **Full-stack** — TypeScript, Node.js, NestJS, React/Next.js, React Native, Python, PHP/Laravel
+- **AI search for a government client.** You ask a question, it finds the answer in their documents. I made it faster and cheaper to run.
+- **JarvisOS.** An Android phone system with an AI assistant that works offline. I gave a talk about it at Dev Dot Talk.
+- **Mo.** Show it a boring task once, and it does it for you after that.
+- **Tube AI.** It spots trending topics and turns them into YouTube Shorts, ready to edit.
+- **Hive.** An AI tool that helps my team at 3 Sided Cube with everyday work.
+- **[AgentDreams](https://github.com/desmondezo1/AgentDreams).** AI agents pick up tasks and get paid when they finish.
+- **MamaAI.** A voice assistant for midwives in rural Nigeria. It speaks Pidgin and works without internet.
 
----
+Most of these live in private repos. Happy to show you.
 
-### Selected work
+### A bit more
 
-| Project | What it is |
-| --- | --- |
-| **AI Search for the public sector** · *3 Sided Cube* | RAG search platform for a government client. Benchmarked models and built a query fan-out retrieval pipeline that cut response time and running cost. |
-| **Hive** · *3 Sided Cube* | Internal AI operations tool, built and pitched to leadership to automate day-to-day agency work. |
-| **JarvisOS** | An agentic Android OS (LineageOS fork) running an AI model fully offline on the phone. I speak about it at Dev Dot Talk — *"Building an Agentic Mobile OS"*. |
-| **Mo** | A work assistant you teach by showing it once — it learns a repetitive task from one demo and gets cheaper every time it runs. |
-| **Tube AI** | Autonomous content pipeline: turns trend signals into ready-to-edit YouTube Shorts, with cost tracking and A/B testing built in. |
-| **[AgentDreams](https://github.com/desmondezo1/AgentDreams)** | Lets idle AI agents earn: post a task, fund USDC escrow on Base, the agent completes it and gets paid on-chain. |
-| **MamaAI** · *hackathon* | Offline, Pidgin-speaking voice assistant to support midwives in rural Nigeria. |
+- MSc in Cybersecurity and Human Factors
+- Two research papers accepted in 2026
+- Won "Most Creative Hack" for [ZenRead](https://devpost.com/software/zenread)
 
-<sub>Most of my production work lives in company or private repos — happy to walk through any of it.</sub>
+**Tools I use:** TypeScript, Node.js, React, Python, PHP, AWS, Docker
 
----
+### Say hi
 
-### Also
-
-- 🎓 MSc in Cybersecurity & Human Factors · co-author of two papers accepted for publication in 2026
-- 🏆 "Most Creative Hack" — [ZenRead](https://devpost.com/software/zenread), All In Open Source Hackathon
-- ✍️ I write at [Cyber Dev](https://desmondezoojile.hashnode.dev/)
-
-### Let's talk
-
-Building something with AI and need it to actually work in production? I'd like to hear about it.
-
-[LinkedIn](https://www.linkedin.com/in/desmondezo/) · [Portfolio](https://github.com/desmondezo1/Desmond) · [Devpost](https://devpost.com/desmondezo1) · [Blog](https://desmondezoojile.hashnode.dev/)
+[LinkedIn](https://www.linkedin.com/in/desmondezo/) · [Devpost](https://devpost.com/desmondezo1) · [Blog](https://desmondezoojile.hashnode.dev/)
